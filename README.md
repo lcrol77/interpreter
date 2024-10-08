@@ -1,1 +1,1 @@
-# monkey-lang-interpreter
+# interpreter
